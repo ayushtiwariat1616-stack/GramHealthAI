@@ -1,7 +1,20 @@
-from ollama import Client
+import os
+
+from groq import Groq
+from dotenv import load_dotenv
+
 from app.ai.prompts import SYSTEM_PROMPT
 
-client = Client(host="http://localhost:11434")
+load_dotenv()
+print("Groq Key:", os.getenv("GROQ_API_KEY"))
+client = Groq(
+    api_key=os.getenv("GROQ_API_KEY")
+)
+
+MODEL = os.getenv(
+    "MODEL_NAME",
+    "llama-3.3-70b-versatile"
+)
 
 
 def generate_response(
@@ -47,20 +60,8 @@ Answer ONLY in natural Indian Hinglish.
 Rules:
 - Write Hindi using English letters.
 - Mix English words naturally.
-- Do NOT translate every English word.
 - Use short conversational sentences.
 - Use bullet points where appropriate.
-
-Example:
-Malaria ke common symptoms hain:
-
-• High fever
-• Thand lagna
-• Sir dard
-• Body pain
-• Bahut thakan
-
-Agar ye symptoms dikhen to doctor se consult karein.
 """
     }.get(language, "Answer in simple English.")
 
@@ -99,25 +100,26 @@ I don't know based on the available health information.
 
 4. Never mention file names or sources.
 
-5. Never diagnose a disease.
+5. Never diagnose diseases.
 
-6. Never prescribe medicines or dosages.
+6. Never prescribe medicines.
 
 7. Use Markdown formatting.
 
-8. Prefer bullet points over long paragraphs.
+8. Prefer bullet points.
 
-9. If the context describes an emergency, clearly advise the user to seek immediate medical care.
+9. If the context describes an emergency, advise immediate medical care.
 
-10. Keep the answer concise, accurate, and easy to understand.
+10. Keep the answer concise.
 
 Answer:
 """
 
-    print("Generating response...")
+    print("Generating response with Groq...")
 
-    response = client.chat(
-        model="llama3.1:8b",
+    response = client.chat.completions.create(
+        model=MODEL,
+        temperature=0.3,
         messages=[
             {
                 "role": "system",
@@ -130,9 +132,9 @@ Answer:
         ],
     )
 
-    print("Ollama finished!")
+    print("Groq finished!")
 
     return {
-        "answer": response["message"]["content"].strip(),
+        "answer": response.choices[0].message.content.strip(),
         "sources": sources,
     }

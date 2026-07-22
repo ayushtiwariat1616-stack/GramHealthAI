@@ -11,12 +11,13 @@ class Settings(BaseSettings):
 
     DEBUG: bool
 
-    OLLAMA_BASE_URL: str
+    GROQ_API_KEY: str
     MODEL_NAME: str
 
     model_config = SettingsConfigDict(
         env_file=".env",
-        case_sensitive=True
+        case_sensitive=True,
+        extra="ignore"
     )
 
 
