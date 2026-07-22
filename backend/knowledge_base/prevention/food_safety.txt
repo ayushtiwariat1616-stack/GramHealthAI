@@ -1,0 +1,118 @@
+# Topic: Food Safety
+
+ID: PRE003
+
+Category: Prevention
+
+---
+
+## Overview
+
+Food safety means handling, preparing, cooking, and storing food properly to prevent food-borne illnesses. Unsafe food may contain harmful bacteria, viruses, parasites, or chemicals that can cause diseases such as diarrhea, food poisoning, typhoid, and hepatitis A.
+
+Following safe food practices protects the health of individuals and families.
+
+---
+
+## Safe Food Practices
+
+Always:
+
+- Wash hands before preparing food.
+- Wash fruits and vegetables with clean water.
+- Cook food thoroughly.
+- Drink safe, clean water.
+- Cover cooked food.
+- Refrigerate perishable foods promptly.
+- Use clean utensils and cutting boards.
+
+---
+
+## Foods That Need Extra Care
+
+Pay special attention to:
+
+- Meat
+- Fish
+- Eggs
+- Milk and dairy products
+- Leftover food
+- Street food that is not freshly prepared
+
+---
+
+## Prevent Cross-Contamination
+
+- Keep raw and cooked foods separate.
+- Use different knives and cutting boards for raw meat and vegetables.
+- Wash utensils after handling raw meat.
+
+---
+
+## Safe Food Storage
+
+- Keep hot food hot and cold food cold.
+- Store leftovers in clean, covered containers.
+- Refrigerate cooked food within two hours.
+- Check expiry dates before consuming packaged foods.
+
+---
+
+## Signs Food May Be Unsafe
+
+Do not eat food if it has:
+
+- Bad smell
+- Mold
+- Unusual color
+- Swollen packaging
+- Expired date
+- Sour taste (when not expected)
+
+---
+
+## Diseases Prevented
+
+Safe food practices help prevent:
+
+- Food poisoning
+- Diarrhea
+- Typhoid
+- Cholera
+- Hepatitis A
+
+---
+
+## Frequently Asked Questions
+
+### Is reheating food enough to make it safe?
+
+Not always. Food that has spoiled should be thrown away even if reheated.
+
+### Should fruits and vegetables be washed?
+
+Yes. Wash them thoroughly with clean water before eating or cooking.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only.
+
+---
+
+## Metadata
+
+Category: Prevention
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- Food Safety and Standards Authority of India (FSSAI)
+- Ministry of Health & Family Welfare, Government of India
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

@@ -1,0 +1,140 @@
+# Topic: Asthma
+
+ID: DIS014
+
+Category: Chronic Respiratory Disease
+
+---
+
+## Overview
+
+Asthma is a long-term disease that causes inflammation and narrowing of the airways, making breathing difficult. Symptoms may come and go and can be triggered by allergens, infections, exercise, smoke, or weather changes.
+
+With proper treatment, most people with asthma can lead normal lives.
+
+---
+
+## Symptoms
+
+Common symptoms include:
+
+- Wheezing
+- Shortness of breath
+- Chest tightness
+- Persistent cough
+- Difficulty breathing, especially at night or early morning
+
+Symptoms may worsen during exercise or respiratory infections.
+
+---
+
+## Causes
+
+Asthma develops due to inflammation of the airways.
+
+Common triggers include:
+
+- Dust
+- Smoke
+- Pollen
+- Pet dander
+- Cold air
+- Exercise
+- Respiratory infections
+- Air pollution
+
+---
+
+## Prevention
+
+Help reduce asthma attacks by:
+
+- Avoiding known triggers.
+- Taking prescribed medicines regularly.
+- Keeping indoor air clean.
+- Avoiding tobacco smoke.
+- Following your asthma action plan.
+
+---
+
+## Diagnosis
+
+Doctors may recommend:
+
+- Physical examination
+- Spirometry (lung function test)
+- Peak flow measurement
+- Allergy testing (when needed)
+
+---
+
+## Treatment
+
+Treatment may include:
+
+- Inhalers
+- Controller medicines
+- Reliever medicines
+- Avoiding triggers
+- Regular follow-up
+
+Do not stop asthma medicines without medical advice.
+
+---
+
+## When to Visit a Doctor
+
+Consult a healthcare professional if:
+
+- Symptoms occur frequently.
+- Night-time coughing increases.
+- Rescue inhaler is needed more often.
+- Breathing becomes difficult.
+
+---
+
+## Emergency Signs
+
+Seek immediate medical attention if:
+
+- Severe difficulty breathing
+- Lips or face become blue
+- Unable to speak full sentences
+- No relief after using a rescue inhaler
+- Loss of consciousness
+
+---
+
+## Frequently Asked Questions
+
+### Can asthma be cured?
+
+There is no permanent cure, but it can be controlled effectively with treatment.
+
+### Is exercise safe for people with asthma?
+
+Yes. Most people with well-controlled asthma can exercise safely after consulting their healthcare professional.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only and should not replace professional medical advice.
+
+---
+
+## Metadata
+
+Category: Chronic Respiratory Disease
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- Global Initiative for Asthma (GINA)
+- Ministry of Health & Family Welfare, Government of India
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

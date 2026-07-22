@@ -1,0 +1,105 @@
+# Topic: Protein
+
+ID: NUT004
+
+Category: Nutrition
+
+---
+
+## Overview
+
+Protein is an essential nutrient that helps build and repair muscles, skin, organs, and other body tissues. It also supports the immune system and healthy growth in children.
+
+People of all ages need adequate protein as part of a balanced diet.
+
+---
+
+## Benefits of Protein
+
+Protein helps:
+
+- Build muscles
+- Repair body tissues
+- Support growth in children
+- Maintain healthy skin and hair
+- Produce enzymes and hormones
+- Strengthen the immune system
+
+---
+
+## Good Sources of Protein
+
+Animal sources:
+
+- Eggs
+- Fish
+- Chicken
+- Lean meat
+- Milk
+- Curd
+- Paneer
+
+Plant sources:
+
+- Dal
+- Rajma
+- Chana
+- Soybeans
+- Tofu
+- Peanuts
+- Nuts and seeds
+
+---
+
+## Daily Tips
+
+- Include a protein-rich food in every meal.
+- Eat a variety of protein sources.
+- Combine cereals with pulses for better nutrition.
+
+---
+
+## Protein Deficiency
+
+Low protein intake may cause:
+
+- Muscle weakness
+- Poor growth in children
+- Frequent infections
+- Slow wound healing
+- Fatigue
+
+---
+
+## Frequently Asked Questions
+
+### Can vegetarians get enough protein?
+
+Yes. Dal, beans, soy products, dairy products, and nuts provide good protein.
+
+### Is eating too much protein harmful?
+
+Most people should consume protein in balanced amounts as part of a healthy diet. Consult a healthcare professional for special dietary needs.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only.
+
+---
+
+## Metadata
+
+Category: Nutrition
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- National Institute of Nutrition (NIN), India
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

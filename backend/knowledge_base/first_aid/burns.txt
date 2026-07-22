@@ -1,0 +1,122 @@
+# Topic: Burns
+
+ID: FA001
+
+Category: First Aid
+
+---
+
+## Overview
+
+A burn is an injury to the skin or deeper tissues caused by heat, hot liquids, steam, fire, electricity, chemicals, or radiation. Prompt first aid can reduce pain, limit tissue damage, and improve healing.
+
+---
+
+## Common Causes
+
+Burns may occur due to:
+
+- Fire
+- Hot water or steam
+- Hot oil
+- Hot objects
+- Chemicals
+- Electricity
+- Sunburn
+
+---
+
+## Symptoms
+
+Depending on severity, burns may cause:
+
+- Redness
+- Pain
+- Swelling
+- Blisters
+- Peeling skin
+- White or blackened skin (severe burns)
+
+---
+
+## First Aid
+
+If someone is burned:
+
+1. Move the person away from the source of the burn.
+2. Cool the burn under cool running water for at least 20 minutes.
+3. Remove rings, watches, or tight clothing before swelling begins.
+4. Cover the burn with a clean, non-stick dressing or sterile cloth.
+5. Keep the person warm if the burn is large.
+
+---
+
+## Do NOT
+
+Do NOT:
+
+- Apply ice.
+- Apply toothpaste.
+- Apply butter or oil.
+- Break blisters.
+- Apply mud or home remedies.
+
+---
+
+## When to Visit a Doctor
+
+Seek medical care if:
+
+- The burn is larger than the person's palm.
+- The burn involves the face, hands, feet, joints, or genitals.
+- There are large blisters.
+- Signs of infection develop.
+- Pain becomes severe.
+
+---
+
+## Emergency Signs
+
+Call emergency medical services immediately if:
+
+- The burn is deep.
+- Clothing catches fire.
+- There are electrical or chemical burns.
+- The person has difficulty breathing.
+- The burn covers a large area.
+
+---
+
+## Frequently Asked Questions
+
+### Should I put ice on a burn?
+
+No. Ice can damage the skin further.
+
+### Can I burst burn blisters?
+
+No. Leave blisters intact unless advised by a healthcare professional.
+
+---
+
+## Disclaimer
+
+This information is intended for first-aid education only and does not replace professional medical care.
+
+---
+
+## Metadata
+
+Category: First Aid
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- Indian Red Cross Society
+- St John Ambulance
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

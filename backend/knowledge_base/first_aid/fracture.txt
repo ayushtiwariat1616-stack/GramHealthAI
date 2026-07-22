@@ -1,0 +1,113 @@
+# Topic: Fracture
+
+ID: FA004
+
+Category: First Aid
+
+---
+
+## Overview
+
+A fracture is a break or crack in a bone. It may result from falls, road traffic accidents, sports injuries, or other trauma. Proper first aid helps reduce pain and prevents further injury until medical treatment is available.
+
+---
+
+## Symptoms
+
+Common signs include:
+
+- Severe pain
+- Swelling
+- Bruising
+- Difficulty moving the limb
+- Deformity
+- Bone visible through the skin (open fracture)
+- Inability to bear weight
+
+---
+
+## First Aid
+
+If a fracture is suspected:
+
+1. Keep the injured person still.
+2. Do not try to straighten the bone.
+3. Support the injured area using a splint if trained to do so.
+4. Apply a cold pack wrapped in a cloth to reduce swelling.
+5. Seek medical care immediately.
+
+---
+
+## Open Fracture
+
+If the bone is visible:
+
+- Cover the wound with a clean sterile dressing.
+- Do not push the bone back inside.
+- Control bleeding by applying gentle pressure around the wound.
+- Call emergency medical services.
+
+---
+
+## Do NOT
+
+Do NOT:
+
+- Move the injured limb unnecessarily.
+- Attempt to straighten the bone.
+- Massage the injured area.
+- Allow the person to walk on an injured leg.
+
+---
+
+## When to Visit a Doctor
+
+Every suspected fracture should be evaluated by a healthcare professional.
+
+---
+
+## Emergency Signs
+
+Call emergency medical services immediately if:
+
+- Bone is protruding through the skin.
+- Heavy bleeding occurs.
+- The person cannot move.
+- Neck or back injury is suspected.
+- The person loses consciousness.
+
+---
+
+## Frequently Asked Questions
+
+### Should I try to straighten a broken bone?
+
+No. Keep the limb still and seek medical care.
+
+### Can I walk with a fracture?
+
+Walking may worsen the injury. Avoid putting weight on the affected limb until examined.
+
+---
+
+## Disclaimer
+
+This information is intended for first-aid education only and should not replace emergency medical care.
+
+---
+
+## Metadata
+
+Category: First Aid
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- Indian Red Cross Society
+- St John Ambulance
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

@@ -1,0 +1,125 @@
+# Topic: Malaria
+
+ID: DIS001
+
+Category: Infectious Disease
+
+---
+
+## Overview
+
+Malaria is a mosquito-borne infectious disease caused by Plasmodium parasites. It spreads through the bite of an infected female Anopheles mosquito. Malaria remains a significant public health concern in many tropical and subtropical regions, including several parts of India. Early diagnosis and timely treatment are essential to prevent severe illness and complications.
+
+---
+
+## Symptoms
+
+Common symptoms include:
+
+- High fever
+- Chills and shivering
+- Sweating
+- Headache
+- Muscle pain
+- Joint pain
+- Fatigue or weakness
+- Nausea
+- Vomiting
+
+Symptoms usually develop between 7 and 30 days after an infected mosquito bite.
+
+---
+
+## Causes
+
+Malaria is caused by Plasmodium parasites, mainly:
+
+- Plasmodium falciparum
+- Plasmodium vivax
+- Plasmodium malariae
+- Plasmodium ovale
+- Plasmodium knowlesi
+
+The disease spreads through:
+
+- Bite of an infected female Anopheles mosquito.
+
+Rarely, malaria may spread through:
+
+- Blood transfusion with infected blood.
+- Organ transplantation.
+- Shared contaminated needles.
+- From mother to baby during pregnancy or childbirth.
+
+Malaria does NOT spread through:
+
+- Touching an infected person.
+- Sharing food or water.
+- Coughing or sneezing.
+
+---
+
+## Prevention
+
+You can reduce the risk of malaria by:
+
+- Sleeping under insecticide-treated mosquito nets.
+- Using mosquito repellents.
+- Wearing full-sleeved clothing, especially during evening and night.
+- Installing window and door screens.
+- Eliminating stagnant water around homes.
+- Keeping water storage containers covered.
+- Seeking preventive medicines before travelling to malaria-endemic regions if advised by a doctor.
+
+---
+
+## Treatment
+
+If malaria is suspected:
+
+- Visit a healthcare professional immediately.
+- Confirm the diagnosis through a blood test.
+- Take only medicines prescribed by a qualified doctor.
+- Complete the full prescribed treatment course.
+- Drink adequate fluids.
+- Get sufficient rest.
+
+Do not self-medicate.
+
+---
+
+## Emergency Signs
+
+Seek immediate medical care if the person develops:
+
+- Difficulty breathing
+- Continuous vomiting
+- Severe weakness
+- Confusion
+- Seizures
+- Loss of consciousness
+- Yellowing of eyes or skin
+- Very high fever that does not improve
+
+---
+
+## Disclaimer
+
+This information is intended for health education only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare professional if malaria is suspected.
+
+---
+
+## Metadata
+
+Category: Infectious Disease
+
+Primary Sources:
+- World Health Organization (WHO)
+- Ministry of Health & Family Welfare, Government of India
+- National Centre for Vector Borne Diseases Control (NCVBDC)
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

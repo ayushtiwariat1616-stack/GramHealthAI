@@ -1,0 +1,130 @@
+# Topic: Dehydration
+
+ID: GEN006
+
+Category: General Symptoms
+
+---
+
+## Overview
+
+Dehydration occurs when the body loses more fluids than it takes in. It can result from diarrhea, vomiting, fever, excessive sweating, or inadequate fluid intake.
+
+Children, older adults, and people with chronic illnesses are at higher risk.
+
+---
+
+## Common Causes
+
+- Diarrhea
+- Vomiting
+- Fever
+- Excessive sweating
+- Not drinking enough water
+
+---
+
+## Symptoms
+
+Mild dehydration:
+
+- Thirst
+- Dry mouth
+- Dark yellow urine
+- Tiredness
+
+Severe dehydration:
+
+- Very little urine
+- Dizziness
+- Rapid heartbeat
+- Confusion
+- Sunken eyes
+- Loss of consciousness
+
+---
+
+## Treatment
+
+For mild dehydration:
+
+- Drink clean water.
+- Use Oral Rehydration Solution (ORS).
+- Drink fluids frequently in small amounts.
+- Continue eating if possible.
+
+---
+
+## Prevention
+
+- Drink enough water every day.
+- Increase fluids during illness.
+- Replace fluids after heavy sweating.
+- Use ORS during diarrhea or vomiting when advised.
+
+---
+
+## Do NOT
+
+Do NOT:
+
+- Ignore signs of severe dehydration.
+- Wait until severe thirst develops.
+- Replace fluids only with sugary drinks.
+
+---
+
+## When to Visit a Doctor
+
+Consult a healthcare professional if:
+
+- Symptoms do not improve.
+- Vomiting prevents drinking.
+- Diarrhea continues.
+- The person becomes very weak.
+
+---
+
+## Emergency Signs
+
+Call emergency medical services immediately if:
+
+- Loss of consciousness occurs.
+- Severe confusion develops.
+- The person cannot drink fluids.
+- Severe dehydration is suspected in an infant or older adult.
+
+---
+
+## Frequently Asked Questions
+
+### Is ORS better than plain water?
+
+ORS helps replace both fluids and essential salts lost during dehydration.
+
+### Can dehydration become dangerous?
+
+Yes. Severe dehydration can be life-threatening without prompt treatment.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only.
+
+---
+
+## Metadata
+
+Category: General Symptoms
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- UNICEF
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

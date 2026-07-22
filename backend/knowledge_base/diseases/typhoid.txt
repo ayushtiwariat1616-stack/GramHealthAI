@@ -1,0 +1,148 @@
+# Topic: Typhoid Fever
+
+ID: DIS003
+
+Category: Infectious Disease
+
+---
+
+## Overview
+
+Typhoid fever is a bacterial infection caused by *Salmonella Typhi*. It spreads through contaminated food or drinking water and is more common in areas with poor sanitation. Early diagnosis and appropriate antibiotic treatment usually lead to complete recovery.
+
+---
+
+## Symptoms
+
+Common symptoms include:
+
+- Persistent high fever
+- Headache
+- Weakness and fatigue
+- Stomach pain
+- Loss of appetite
+- Constipation or diarrhea
+- Dry cough
+- Muscle aches
+
+Symptoms usually develop 6 to 30 days after exposure.
+
+---
+
+## Causes
+
+Typhoid fever is caused by the bacterium *Salmonella Typhi*.
+
+The infection spreads through:
+
+- Contaminated food
+- Contaminated drinking water
+- Poor hand hygiene
+- Close contact with an infected person or carrier
+
+Typhoid does NOT spread through the air.
+
+---
+
+## Risk Factors
+
+Risk increases if a person:
+
+- Drinks unsafe water.
+- Eats unhygienic street food.
+- Lives in areas with poor sanitation.
+- Travels to regions where typhoid is common.
+
+---
+
+## Prevention
+
+Reduce the risk by:
+
+- Drinking clean and safe water.
+- Washing hands before eating and after using the toilet.
+- Eating freshly cooked food.
+- Washing fruits and vegetables thoroughly.
+- Getting vaccinated if recommended.
+
+---
+
+## Diagnosis
+
+Doctors may recommend:
+
+- Blood culture
+- Stool culture
+- Urine culture
+- Complete blood count (CBC)
+
+---
+
+## Treatment
+
+Treatment usually includes:
+
+- Antibiotics prescribed by a doctor.
+- Drinking plenty of fluids.
+- Adequate rest.
+- Completing the full course of medicines.
+
+Do not stop antibiotics early even if symptoms improve.
+
+---
+
+## When to Visit a Doctor
+
+Consult a healthcare professional if:
+
+- Fever lasts more than 2–3 days.
+- Severe abdominal pain develops.
+- Continuous vomiting occurs.
+- The patient becomes confused or extremely weak.
+
+---
+
+## Emergency Signs
+
+Seek immediate medical care if there is:
+
+- Severe abdominal swelling
+- Bloody stools
+- Persistent vomiting
+- Difficulty staying awake
+- Loss of consciousness
+
+---
+
+## Frequently Asked Questions
+
+### Is typhoid contagious?
+
+Yes. It spreads through contaminated food and water.
+
+### Can typhoid be prevented?
+
+Yes. Good hygiene, safe drinking water, proper sanitation and vaccination greatly reduce the risk.
+
+---
+
+## Disclaimer
+
+This information is intended for education only and should not replace medical advice. Always consult a qualified healthcare professional.
+
+---
+
+## Metadata
+
+Category: Infectious Disease
+
+Primary Sources:
+- World Health Organization (WHO)
+- Ministry of Health & Family Welfare, Government of India
+- Indian Council of Medical Research (ICMR)
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

@@ -1,0 +1,117 @@
+# Topic: Dengue
+
+ID: DIS002
+
+Category: Infectious Disease
+
+---
+
+## Overview
+
+Dengue is a viral disease caused by the dengue virus and transmitted through the bite of infected Aedes mosquitoes, primarily Aedes aegypti. These mosquitoes are most active during the daytime. Dengue commonly occurs during and after the rainy season in many parts of India. Early recognition of symptoms and medical evaluation are important to reduce the risk of severe complications.
+
+---
+
+## Symptoms
+
+Common symptoms include:
+
+- High fever
+- Severe headache
+- Pain behind the eyes
+- Muscle pain
+- Joint pain
+- Skin rash
+- Nausea
+- Vomiting
+- Fatigue
+- Mild bleeding from gums or nose in some patients
+
+Symptoms usually begin 4 to 10 days after being bitten by an infected mosquito.
+
+---
+
+## Causes
+
+Dengue is caused by the dengue virus.
+
+The disease spreads through:
+
+- Bite of an infected Aedes mosquito.
+
+Dengue does NOT spread through:
+
+- Touching an infected person.
+- Sharing food.
+- Sharing drinking water.
+- Coughing or sneezing.
+
+---
+
+## Prevention
+
+Reduce the risk of dengue by:
+
+- Removing stagnant water from coolers, flower pots, tyres, buckets and containers.
+- Using mosquito repellents.
+- Wearing full-sleeved clothing.
+- Keeping doors and windows screened.
+- Emptying and cleaning water containers regularly.
+- Using mosquito nets where appropriate.
+
+---
+
+## Treatment
+
+There is no specific antiviral treatment for dengue.
+
+Treatment mainly includes:
+
+- Adequate fluid intake.
+- Sufficient rest.
+- Medicines prescribed by a healthcare professional for fever or pain.
+- Regular monitoring if symptoms worsen.
+- Hospital admission if severe dengue is suspected.
+
+Avoid taking medicines without medical advice.
+
+---
+
+## Emergency Signs
+
+Seek immediate medical attention if there is:
+
+- Severe abdominal pain
+- Continuous vomiting
+- Difficulty breathing
+- Persistent bleeding from gums or nose
+- Blood in vomit or stool
+- Extreme weakness
+- Cold or clammy skin
+- Restlessness or confusion
+- Loss of consciousness
+
+These symptoms may indicate severe dengue.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only and should not replace professional medical advice. Consult a qualified healthcare professional if dengue is suspected.
+
+---
+
+## Metadata
+
+Category: Infectious Disease
+
+Primary Sources:
+- World Health Organization (WHO)
+- Ministry of Health & Family Welfare, Government of India
+- National Centre for Vector Borne Diseases Control (NCVBDC)
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

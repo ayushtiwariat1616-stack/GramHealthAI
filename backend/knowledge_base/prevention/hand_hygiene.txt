@@ -1,0 +1,115 @@
+# Topic: Hand Hygiene
+
+ID: PRE001
+
+Category: Prevention
+
+---
+
+## Overview
+
+Hand hygiene is one of the simplest and most effective ways to prevent the spread of infections. Washing hands with soap and clean water removes germs that can cause diseases such as diarrhea, influenza, COVID-19, cholera, typhoid, and many other infections.
+
+Proper hand hygiene protects both the individual and the community.
+
+---
+
+## When to Wash Your Hands
+
+Always wash your hands:
+
+- Before preparing food.
+- Before eating.
+- Before feeding a child.
+- After using the toilet.
+- After changing a baby's diaper.
+- After coughing, sneezing, or blowing your nose.
+- After touching animals.
+- After handling garbage.
+- Before and after caring for someone who is sick.
+
+---
+
+## Correct Handwashing Steps
+
+Follow these steps for at least 20 seconds:
+
+1. Wet your hands with clean running water.
+2. Apply soap.
+3. Rub palms together.
+4. Rub the back of each hand.
+5. Clean between the fingers.
+6. Rub fingertips and nails.
+7. Clean the thumbs.
+8. Rinse thoroughly with clean water.
+9. Dry with a clean towel or allow hands to air dry.
+
+---
+
+## If Soap and Water Are Not Available
+
+Use an alcohol-based hand sanitizer containing at least 60% alcohol.
+
+Hand sanitizer works well for most germs but may not remove dirt or certain harmful chemicals.
+
+---
+
+## Benefits
+
+Good hand hygiene helps prevent:
+
+- Diarrhea
+- Cholera
+- Typhoid
+- COVID-19
+- Influenza
+- Food poisoning
+- Eye infections
+- Respiratory infections
+
+---
+
+## Common Mistakes
+
+Avoid:
+
+- Washing hands for only a few seconds.
+- Forgetting to clean between fingers.
+- Not cleaning fingernails.
+- Touching dirty surfaces immediately after washing.
+
+---
+
+## Frequently Asked Questions
+
+### Is washing with water alone enough?
+
+No. Soap removes germs much more effectively than water alone.
+
+### How long should I wash my hands?
+
+At least 20 seconds.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only.
+
+---
+
+## Metadata
+
+Category: Prevention
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- UNICEF
+- Ministry of Health & Family Welfare, Government of India
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

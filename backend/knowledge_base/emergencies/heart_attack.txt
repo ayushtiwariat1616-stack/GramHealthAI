@@ -1,0 +1,114 @@
+# Topic: Heart Attack
+
+ID: EM001
+
+Category: Emergency
+
+---
+
+## Overview
+
+A heart attack (myocardial infarction) occurs when blood flow to part of the heart muscle is blocked. Without quick treatment, the heart muscle can become permanently damaged.
+
+A heart attack is a medical emergency. Immediate treatment can save a life.
+
+---
+
+## Common Symptoms
+
+Symptoms may include:
+
+- Severe chest pain or pressure
+- Pain spreading to the left arm, shoulder, neck, jaw, or back
+- Shortness of breath
+- Cold sweating
+- Nausea or vomiting
+- Dizziness
+- Extreme weakness
+
+Some people, especially women, older adults, and people with diabetes, may have less typical symptoms such as unusual fatigue or mild chest discomfort.
+
+---
+
+## What To Do
+
+If a heart attack is suspected:
+
+1. Call emergency medical services immediately.
+2. Keep the person sitting comfortably.
+3. Loosen tight clothing.
+4. Keep the person calm.
+5. Do not allow unnecessary walking.
+6. If the person becomes unconscious and is not breathing normally, begin CPR if you are trained.
+
+---
+
+## Do NOT
+
+Do NOT:
+
+- Ignore chest pain.
+- Delay calling emergency services.
+- Allow the person to drive themselves to the hospital.
+- Give food or drinks if the person is unconscious.
+
+---
+
+## Risk Factors
+
+The risk is higher in people with:
+
+- High blood pressure
+- Diabetes
+- Smoking
+- High cholesterol
+- Obesity
+- Family history of heart disease
+- Lack of physical activity
+
+---
+
+## Emergency Signs
+
+Call emergency medical services immediately if there is:
+
+- Chest pain lasting more than a few minutes
+- Difficulty breathing
+- Collapse
+- Loss of consciousness
+- Cardiac arrest
+
+---
+
+## Frequently Asked Questions
+
+### Can a heart attack happen without severe chest pain?
+
+Yes. Some people experience mild symptoms or unusual fatigue, especially women, older adults, and people with diabetes.
+
+### Should I wait to see if the pain goes away?
+
+No. Seek emergency medical care immediately.
+
+---
+
+## Disclaimer
+
+This information is intended for emergency awareness only and does not replace professional medical care.
+
+---
+
+## Metadata
+
+Category: Emergency
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- American Heart Association (AHA)
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

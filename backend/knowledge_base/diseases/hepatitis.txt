@@ -1,0 +1,154 @@
+# Topic: Hepatitis
+
+ID: DIS008
+
+Category: Infectious Disease
+
+---
+
+## Overview
+
+Hepatitis is inflammation of the liver. It can be caused by viral infections, alcohol use, certain medicines, toxins, or autoimmune diseases. Viral hepatitis includes Hepatitis A, B, C, D, and E. Early diagnosis and treatment help prevent serious liver damage.
+
+---
+
+## Symptoms
+
+Common symptoms include:
+
+- Fever
+- Fatigue
+- Loss of appetite
+- Nausea
+- Vomiting
+- Abdominal pain
+- Dark urine
+- Pale stools
+- Yellowing of the skin and eyes (jaundice)
+
+Some people may have no symptoms, especially in the early stages.
+
+---
+
+## Causes
+
+Hepatitis may be caused by:
+
+- Hepatitis viruses (A, B, C, D, E)
+- Alcohol-related liver disease
+- Certain medicines
+- Autoimmune disorders
+- Exposure to toxins
+
+Different types spread differently. Some spread through contaminated food and water, while others spread through infected blood or body fluids.
+
+---
+
+## Risk Factors
+
+Risk increases in people who:
+
+- Drink unsafe water.
+- Have unprotected sexual contact.
+- Share needles.
+- Receive unsafe blood transfusions.
+- Live with someone who has viral hepatitis.
+- Travel to areas where hepatitis is common.
+
+---
+
+## Prevention
+
+Reduce the risk by:
+
+- Washing hands before eating.
+- Drinking safe water.
+- Eating hygienic food.
+- Getting vaccinated against Hepatitis A and B when recommended.
+- Avoiding sharing needles or razors.
+- Practicing safe sex.
+
+---
+
+## Diagnosis
+
+Doctors may recommend:
+
+- Liver function tests (LFTs)
+- Blood tests for hepatitis viruses
+- Ultrasound of the liver
+- Additional tests when required
+
+---
+
+## Treatment
+
+Treatment depends on the type of hepatitis.
+
+It may include:
+
+- Rest.
+- Drinking enough fluids.
+- Medicines prescribed by a healthcare professional.
+- Antiviral medicines for certain types.
+- Regular follow-up for chronic hepatitis.
+
+---
+
+## When to Visit a Doctor
+
+Consult a healthcare professional if:
+
+- Yellowing of the skin or eyes develops.
+- Dark urine appears.
+- Severe abdominal pain occurs.
+- Persistent vomiting develops.
+- Fatigue becomes severe.
+
+---
+
+## Emergency Signs
+
+Seek immediate medical attention if there is:
+
+- Confusion
+- Severe abdominal swelling
+- Vomiting blood
+- Black stools
+- Loss of consciousness
+
+---
+
+## Frequently Asked Questions
+
+### Is hepatitis contagious?
+
+Some types are contagious, while others are not. The mode of spread depends on the specific type.
+
+### Can hepatitis be prevented?
+
+Yes. Vaccination, good hygiene, safe food and water, and avoiding contact with infected blood help reduce the risk.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only and should not replace professional medical advice.
+
+---
+
+## Metadata
+
+Category: Infectious Disease
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- Ministry of Health & Family Welfare, Government of India
+- Indian Council of Medical Research (ICMR)
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

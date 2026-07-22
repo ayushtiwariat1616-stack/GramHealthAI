@@ -1,0 +1,134 @@
+# Topic: Headache
+
+ID: GEN002
+
+Category: General Symptoms
+
+---
+
+## Overview
+
+A headache is pain or discomfort in the head, scalp, or neck. Most headaches are not serious and improve with rest, hydration, or appropriate treatment. However, some headaches can indicate a medical emergency.
+
+---
+
+## Common Causes
+
+Headaches may be caused by:
+
+- Stress
+- Lack of sleep
+- Dehydration
+- Fever
+- Eye strain
+- Migraine
+- Sinus infection
+- High blood pressure
+- Certain illnesses
+
+---
+
+## Common Symptoms
+
+Symptoms may include:
+
+- Pain on one or both sides of the head
+- Pressure around the forehead
+- Throbbing pain
+- Sensitivity to light or sound
+- Nausea (especially with migraine)
+
+---
+
+## Home Care
+
+For mild headaches:
+
+- Rest in a quiet room.
+- Drink enough water.
+- Eat regular meals.
+- Get adequate sleep.
+- Reduce screen time if eye strain is suspected.
+- Take medicines only as advised by a healthcare professional.
+
+---
+
+## Prevention
+
+You can reduce headaches by:
+
+- Sleeping regularly.
+- Staying hydrated.
+- Managing stress.
+- Exercising regularly.
+- Avoiding skipping meals.
+
+---
+
+## Do NOT
+
+Do NOT:
+
+- Take painkillers repeatedly without medical advice.
+- Ignore severe or sudden headaches.
+- Continue strenuous activity if symptoms worsen.
+
+---
+
+## When to Visit a Doctor
+
+Consult a healthcare professional if:
+
+- Headaches occur frequently.
+- Pain lasts several days.
+- Medicines do not help.
+- Headaches interfere with daily life.
+
+---
+
+## Emergency Signs
+
+Seek immediate medical care if headache is accompanied by:
+
+- Sudden severe pain ("worst headache ever")
+- Loss of consciousness
+- Weakness on one side
+- Difficulty speaking
+- Vision changes
+- High fever with stiff neck
+- Seizures
+
+---
+
+## Frequently Asked Questions
+
+### Can dehydration cause headaches?
+
+Yes. Not drinking enough water is a common cause of headaches.
+
+### When should I worry about a headache?
+
+Seek medical attention if it is sudden, severe, or associated with neurological symptoms.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only.
+
+---
+
+## Metadata
+
+Category: General Symptoms
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- National Institute of Neurological Disorders and Stroke (NINDS)
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

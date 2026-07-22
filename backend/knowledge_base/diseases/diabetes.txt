@@ -1,0 +1,140 @@
+# Topic: Diabetes
+
+ID: DIS011
+
+Category: Non-Communicable Disease
+
+---
+
+## Overview
+
+Diabetes is a long-term condition in which the body cannot properly control blood sugar (glucose) levels. High blood sugar over time can damage the heart, kidneys, eyes, nerves, and blood vessels.
+
+The most common types are Type 1 Diabetes, Type 2 Diabetes, and Gestational Diabetes.
+
+---
+
+## Symptoms
+
+Common symptoms include:
+
+- Frequent urination
+- Increased thirst
+- Increased hunger
+- Unexplained weight loss
+- Fatigue
+- Blurred vision
+- Slow wound healing
+- Frequent infections
+- Tingling or numbness in hands and feet
+
+---
+
+## Causes
+
+Diabetes develops when the body cannot produce enough insulin or cannot use insulin effectively.
+
+Risk factors include:
+
+- Family history
+- Being overweight or obese
+- Physical inactivity
+- Unhealthy diet
+- Increasing age
+- High blood pressure
+
+---
+
+## Prevention
+
+The risk of Type 2 Diabetes can be reduced by:
+
+- Maintaining a healthy weight
+- Exercising regularly
+- Eating a balanced diet
+- Limiting sugary foods and drinks
+- Avoiding tobacco
+- Regular health check-ups
+
+---
+
+## Diagnosis
+
+Doctors may recommend:
+
+- Fasting Blood Sugar (FBS)
+- Random Blood Sugar (RBS)
+- HbA1c test
+- Oral Glucose Tolerance Test (OGTT)
+
+---
+
+## Treatment
+
+Treatment may include:
+
+- Healthy eating
+- Regular physical activity
+- Diabetes medicines
+- Insulin therapy (when prescribed)
+- Regular blood sugar monitoring
+
+Never stop diabetes medicines without consulting a healthcare professional.
+
+---
+
+## When to Visit a Doctor
+
+Consult a healthcare professional if:
+
+- You have frequent urination and excessive thirst.
+- Blood sugar remains high.
+- Wounds heal slowly.
+- Vision becomes blurry.
+
+---
+
+## Emergency Signs
+
+Seek emergency medical care if there is:
+
+- Severe confusion
+- Difficulty breathing
+- Loss of consciousness
+- Persistent vomiting
+- Very high or very low blood sugar symptoms
+
+---
+
+## Frequently Asked Questions
+
+### Can diabetes be cured?
+
+There is currently no cure, but it can be managed effectively with lifestyle changes and treatment.
+
+### Can eating sugar alone cause diabetes?
+
+No. Diabetes develops due to multiple factors including genetics, body weight, and lifestyle.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only and should not replace professional medical advice.
+
+---
+
+## Metadata
+
+Category: Non-Communicable Disease
+
+Primary Sources:
+- World Health Organization (WHO)
+- Indian Council of Medical Research (ICMR)
+- Ministry of Health & Family Welfare, Government of India
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

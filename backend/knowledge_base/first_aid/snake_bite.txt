@@ -1,0 +1,119 @@
+# Topic: Snake Bite
+
+ID: FA002
+
+Category: First Aid
+
+---
+
+## Overview
+
+Snake bites can be dangerous, especially if caused by a venomous snake. Immediate first aid and rapid transport to a hospital are essential.
+
+Do not try to identify the snake if it puts you at risk.
+
+---
+
+## Symptoms
+
+Possible symptoms include:
+
+- Bite marks
+- Pain
+- Swelling
+- Redness
+- Numbness
+- Weakness
+- Difficulty breathing
+- Drooping eyelids
+- Bleeding
+- Vomiting
+
+Symptoms vary depending on the type of snake.
+
+---
+
+## First Aid
+
+If someone is bitten:
+
+1. Stay calm and reassure the person.
+2. Move away from the snake safely.
+3. Keep the affected limb still.
+4. Remove rings or tight clothing.
+5. Keep the bite below heart level if possible.
+6. Transport the person to the nearest hospital immediately.
+
+---
+
+## Do NOT
+
+Do NOT:
+
+- Cut the wound.
+- Suck the venom.
+- Apply ice.
+- Apply chemicals or herbs.
+- Use a tight tourniquet.
+- Try to catch the snake.
+
+---
+
+## Hospital Treatment
+
+Doctors may provide:
+
+- Observation
+- Antivenom (if needed)
+- Pain relief
+- Wound care
+- Breathing support
+
+---
+
+## Emergency Signs
+
+Call emergency medical services immediately if there is:
+
+- Difficulty breathing
+- Severe swelling
+- Loss of consciousness
+- Bleeding
+- Seizures
+- Weakness spreading through the body
+
+---
+
+## Frequently Asked Questions
+
+### Should I wash the bite?
+
+If possible, avoid excessive washing before medical assessment, as venom traces may sometimes help identify the type of snake. Follow local medical advice.
+
+### Can all snake bites inject venom?
+
+No. Some bites are "dry bites" with little or no venom, but every snake bite should be treated as a medical emergency.
+
+---
+
+## Disclaimer
+
+This information is intended for first-aid education only and should not replace emergency medical care.
+
+---
+
+## Metadata
+
+Category: First Aid
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- National Health Mission (India)
+- Indian Red Cross Society
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

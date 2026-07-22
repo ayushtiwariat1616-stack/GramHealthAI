@@ -1,0 +1,135 @@
+# Topic: Bleeding
+
+ID: FA005
+
+Category: First Aid
+
+---
+
+## Overview
+
+Bleeding occurs when blood escapes from damaged blood vessels due to injury or illness. Severe bleeding can quickly become life-threatening if not controlled. Immediate first aid can reduce blood loss until medical help arrives.
+
+---
+
+## Types of Bleeding
+
+Bleeding may be:
+
+- Minor cuts and scrapes
+- Deep wounds
+- Nosebleeds
+- Internal bleeding (not always visible)
+- Severe external bleeding
+
+---
+
+## Signs of Severe Bleeding
+
+Watch for:
+
+- Continuous heavy bleeding
+- Blood soaking through bandages
+- Large pools of blood
+- Pale or cold skin
+- Weakness
+- Dizziness
+- Rapid heartbeat
+- Confusion
+
+---
+
+## First Aid
+
+If someone is bleeding:
+
+1. Ensure the area is safe.
+2. Wash your hands or wear gloves if available.
+3. Apply firm direct pressure over the wound using a clean cloth or sterile dressing.
+4. Keep pressure until the bleeding stops.
+5. If the dressing becomes soaked, place another dressing on top without removing the first one.
+6. Elevate the injured limb if possible and if no fracture is suspected.
+7. Seek medical care if bleeding does not stop.
+
+---
+
+## Nosebleed First Aid
+
+If the nose is bleeding:
+
+1. Sit upright.
+2. Lean slightly forward.
+3. Pinch the soft part of the nose for 10–15 minutes.
+4. Breathe through the mouth.
+5. Avoid lying down.
+
+---
+
+## Do NOT
+
+Do NOT:
+
+- Remove dressings repeatedly.
+- Apply mud, ash, or powders.
+- Blow the nose during a nosebleed.
+- Use a tourniquet unless trained or instructed by emergency services.
+
+---
+
+## When to Visit a Doctor
+
+Seek medical care if:
+
+- Bleeding continues after 10–15 minutes of direct pressure.
+- The wound is deep.
+- The injury was caused by an animal bite.
+- The wound appears infected.
+- Foreign objects remain inside the wound.
+
+---
+
+## Emergency Signs
+
+Call emergency medical services immediately if:
+
+- Heavy bleeding cannot be controlled.
+- Blood is spurting from the wound.
+- The person becomes unconscious.
+- Signs of shock develop.
+- Internal bleeding is suspected.
+
+---
+
+## Frequently Asked Questions
+
+### Should I remove the first bandage if it becomes soaked?
+
+No. Leave it in place and add another dressing on top while maintaining pressure.
+
+### Should I wash a deep wound immediately?
+
+Minor wounds may be gently cleaned. Severe wounds should first be controlled by direct pressure before medical evaluation.
+
+---
+
+## Disclaimer
+
+This information is intended for first-aid education only and does not replace emergency medical care.
+
+---
+
+## Metadata
+
+Category: First Aid
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- Indian Red Cross Society
+- St John Ambulance
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

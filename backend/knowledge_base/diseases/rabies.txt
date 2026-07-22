@@ -1,0 +1,163 @@
+# Topic: Rabies
+
+ID: DIS009
+
+Category: Infectious Disease
+
+---
+
+## Overview
+
+Rabies is a deadly viral disease that affects the brain and nervous system. It spreads through the bite or scratch of an infected animal, most commonly dogs. Rabies is almost always fatal once symptoms appear, but it is completely preventable with immediate medical treatment after exposure.
+
+---
+
+## Symptoms
+
+Early symptoms include:
+
+- Fever
+- Headache
+- Weakness
+- Pain or tingling at the bite site
+
+Later symptoms include:
+
+- Difficulty swallowing
+- Fear of water (hydrophobia)
+- Excessive saliva
+- Anxiety
+- Confusion
+- Hallucinations
+- Muscle spasms
+- Paralysis
+
+---
+
+## Causes
+
+Rabies is caused by the rabies virus.
+
+It spreads through:
+
+- Bite of an infected animal.
+- Scratch from an infected animal.
+- Saliva entering an open wound or eyes, nose, or mouth.
+
+Common animals include:
+
+- Dogs
+- Bats
+- Cats
+- Foxes
+- Monkeys
+
+---
+
+## Risk Factors
+
+Higher risk includes:
+
+- Animal bites.
+- Working with animals.
+- Traveling to areas where rabies is common.
+- Delayed medical treatment after an animal bite.
+
+---
+
+## Prevention
+
+Reduce the risk by:
+
+- Vaccinating pets.
+- Avoiding contact with stray animals.
+- Washing animal bite wounds immediately with soap and running water for at least 15 minutes.
+- Seeking medical care immediately after any animal bite.
+- Taking rabies vaccination if recommended by a healthcare professional.
+
+---
+
+## Diagnosis
+
+Doctors may evaluate:
+
+- Bite history.
+- Physical examination.
+- Laboratory tests (mainly after symptoms appear).
+
+Treatment should begin immediately after exposure without waiting for symptoms.
+
+---
+
+## Treatment
+
+After an animal bite:
+
+- Wash the wound immediately.
+- Visit the nearest healthcare facility.
+- Receive rabies vaccine if advised.
+- Receive Rabies Immunoglobulin (RIG) when indicated.
+
+Once symptoms appear, survival is extremely rare.
+
+---
+
+## When to Visit a Doctor
+
+Immediately after:
+
+- Any dog bite.
+- Cat bite.
+- Monkey bite.
+- Bat bite.
+- Animal scratch that breaks the skin.
+
+Do NOT wait for symptoms.
+
+---
+
+## Emergency Signs
+
+Seek emergency care immediately if:
+
+- Difficulty swallowing develops.
+- Confusion appears.
+- Muscle spasms occur.
+- Fear of water develops.
+- Difficulty breathing develops.
+
+---
+
+## Frequently Asked Questions
+
+### Should every dog bite be treated?
+
+Yes. Every animal bite should be evaluated by a healthcare professional.
+
+### Can rabies be cured after symptoms appear?
+
+Rabies is almost always fatal after symptoms begin. Early treatment after exposure is essential.
+
+---
+
+## Disclaimer
+
+This information is intended for health education only and should not replace professional medical advice.
+
+---
+
+## Metadata
+
+Category: Infectious Disease
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- National Centre for Disease Control (NCDC), India
+- Ministry of Health & Family Welfare, Government of India
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

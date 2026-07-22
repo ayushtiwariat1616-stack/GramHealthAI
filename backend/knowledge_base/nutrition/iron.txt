@@ -1,0 +1,106 @@
+# Topic: Iron
+
+ID: NUT005
+
+Category: Nutrition
+
+---
+
+## Overview
+
+Iron is an important mineral that helps the body produce hemoglobin, which carries oxygen in the blood. Adequate iron intake helps prevent iron deficiency anemia.
+
+Children, adolescents, pregnant women, and women of reproductive age have higher iron requirements.
+
+---
+
+## Benefits of Iron
+
+Iron helps:
+
+- Produce healthy red blood cells
+- Carry oxygen throughout the body
+- Prevent anemia
+- Improve energy levels
+- Support brain development
+
+---
+
+## Iron-Rich Foods
+
+Animal sources:
+
+- Liver
+- Lean meat
+- Fish
+- Eggs
+
+Plant sources:
+
+- Spinach
+- Green leafy vegetables
+- Lentils (Dal)
+- Chickpeas
+- Rajma
+- Soybeans
+- Jaggery
+- Sesame seeds
+
+---
+
+## Improve Iron Absorption
+
+Vitamin C helps the body absorb iron.
+
+Good sources include:
+
+- Oranges
+- Lemon
+- Guava
+- Tomatoes
+- Amla
+
+---
+
+## Signs of Iron Deficiency
+
+- Fatigue
+- Weakness
+- Pale skin
+- Dizziness
+- Shortness of breath
+
+---
+
+## Frequently Asked Questions
+
+### Should I take iron tablets on my own?
+
+No. Iron supplements should only be taken after medical advice.
+
+### Does vitamin C help?
+
+Yes. Vitamin C improves iron absorption from food.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only.
+
+---
+
+## Metadata
+
+Category: Nutrition
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- National Institute of Nutrition (NIN), India
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

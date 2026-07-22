@@ -1,0 +1,113 @@
+# Topic: Poisoning
+
+ID: FA008
+
+Category: First Aid
+
+---
+
+## Overview
+
+Poisoning occurs when harmful substances enter the body through swallowing, breathing, skin contact, or injection. Common poisons include medicines, household cleaners, pesticides, chemicals, and poisonous plants.
+
+Poisoning is a medical emergency.
+
+---
+
+## Symptoms
+
+Symptoms depend on the poison but may include:
+
+- Nausea
+- Vomiting
+- Stomach pain
+- Difficulty breathing
+- Dizziness
+- Confusion
+- Burns around the mouth
+- Seizures
+- Loss of consciousness
+
+---
+
+## First Aid
+
+If poisoning is suspected:
+
+1. Move the person away from the poison if it is safe.
+2. Call emergency medical services or a poison control center.
+3. Identify the poison if possible.
+4. Keep the poison container for medical staff.
+5. Follow professional medical advice.
+
+---
+
+## If Poison Is on the Skin
+
+- Remove contaminated clothing.
+- Wash the affected area thoroughly with clean water.
+
+---
+
+## If Poison Is in the Eyes
+
+- Rinse the eyes gently with clean water for at least 15 minutes.
+
+---
+
+## Do NOT
+
+Do NOT:
+
+- Force vomiting unless instructed by a healthcare professional.
+- Give food or drink unless advised.
+- Give home remedies.
+- Delay seeking medical help.
+
+---
+
+## Emergency Signs
+
+Call emergency medical services immediately if:
+
+- The person is unconscious.
+- Breathing becomes difficult.
+- Seizures occur.
+- Severe burns develop.
+- The poison is highly toxic.
+
+---
+
+## Frequently Asked Questions
+
+### Should I make the person vomit?
+
+No. Do not induce vomiting unless specifically instructed by a healthcare professional.
+
+### Should I keep the medicine bottle?
+
+Yes. It helps healthcare professionals identify the poison.
+
+---
+
+## Disclaimer
+
+This information is intended for first-aid education only.
+
+---
+
+## Metadata
+
+Category: First Aid
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- National Poisons Information Centre (India)
+- Indian Red Cross Society
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

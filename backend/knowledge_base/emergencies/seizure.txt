@@ -1,0 +1,112 @@
+# Topic: Seizure
+
+ID: EM004
+
+Category: Emergency
+
+---
+
+## Overview
+
+A seizure is a sudden burst of abnormal electrical activity in the brain that can cause changes in movement, awareness, behaviour, or consciousness. Seizures may occur due to epilepsy, fever, head injury, infections, or other medical conditions.
+
+Most seizures stop on their own within a few minutes.
+
+---
+
+## Common Symptoms
+
+During a seizure, a person may have:
+
+- Uncontrolled shaking
+- Loss of consciousness
+- Stiff body
+- Eye rolling
+- Confusion after the seizure
+- Loss of bladder control
+- Difficulty responding
+
+---
+
+## First Aid
+
+If someone is having a seizure:
+
+1. Stay calm.
+2. Protect the person from nearby objects that could cause injury.
+3. Place something soft under the head.
+4. Turn the person onto one side after the shaking stops.
+5. Stay with the person until they recover.
+6. Note how long the seizure lasts.
+
+---
+
+## Do NOT
+
+Do NOT:
+
+- Hold the person down.
+- Put anything into the person's mouth.
+- Give food, water, or medicines during the seizure.
+- Try to stop the shaking.
+
+---
+
+## When to Call Emergency Medical Services
+
+Call emergency medical services immediately if:
+
+- The seizure lasts more than 5 minutes.
+- Another seizure starts before recovery.
+- The person is injured.
+- The seizure occurs in water.
+- The person has difficulty breathing after the seizure.
+- It is the person's first seizure.
+- The person is pregnant or has diabetes.
+
+---
+
+## Recovery
+
+After a seizure:
+
+- Allow the person to rest.
+- Speak calmly.
+- Stay with them until they are fully alert.
+- Offer reassurance.
+
+---
+
+## Frequently Asked Questions
+
+### Should I put a spoon or cloth in the person's mouth?
+
+No. This can cause serious injury.
+
+### Should I stop the shaking?
+
+No. Protect the person from injury but do not restrain their movements.
+
+---
+
+## Disclaimer
+
+This information is intended for emergency awareness only and should not replace professional medical care.
+
+---
+
+## Metadata
+
+Category: Emergency
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- International League Against Epilepsy (ILAE)
+- Epilepsy Foundation
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

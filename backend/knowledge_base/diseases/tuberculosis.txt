@@ -1,0 +1,150 @@
+# Topic: Tuberculosis (TB)
+
+ID: DIS005
+
+Category: Infectious Disease
+
+---
+
+## Overview
+
+Tuberculosis (TB) is an infectious disease caused by the bacterium *Mycobacterium tuberculosis*. It mainly affects the lungs but can also affect the brain, kidneys, spine, and other organs. TB is curable with proper treatment, but completing the full course of medicines is essential.
+
+---
+
+## Symptoms
+
+Common symptoms include:
+
+- Persistent cough lasting more than two weeks
+- Chest pain
+- Coughing up blood or sputum
+- Fever
+- Night sweats
+- Weight loss
+- Loss of appetite
+- Fatigue
+
+---
+
+## Causes
+
+TB is caused by *Mycobacterium tuberculosis*.
+
+The infection spreads through:
+
+- Tiny droplets released into the air when a person with active TB coughs, sneezes, laughs, or speaks.
+
+TB does NOT usually spread through:
+
+- Handshakes
+- Sharing food
+- Sharing utensils
+- Touching surfaces
+
+---
+
+## Risk Factors
+
+The risk is higher in people who:
+
+- Have weak immune systems.
+- Have HIV infection.
+- Have diabetes.
+- Smoke tobacco.
+- Live in crowded environments.
+- Have poor nutrition.
+
+---
+
+## Prevention
+
+Reduce the risk by:
+
+- Covering the mouth while coughing or sneezing.
+- Keeping rooms well ventilated.
+- Wearing masks when recommended.
+- Early diagnosis and treatment.
+- BCG vaccination for infants as recommended.
+
+---
+
+## Diagnosis
+
+Doctors may recommend:
+
+- Chest X-ray
+- Sputum examination
+- GeneXpert test
+- TB skin test
+- Blood tests
+
+---
+
+## Treatment
+
+Treatment usually includes:
+
+- A combination of anti-TB medicines.
+- Completing the full treatment course.
+- Regular follow-up with healthcare providers.
+
+Do not stop medicines early even if symptoms improve.
+
+---
+
+## When to Visit a Doctor
+
+Consult a healthcare professional if:
+
+- Cough lasts more than two weeks.
+- Blood appears in sputum.
+- Fever and weight loss continue.
+- Persistent chest pain develops.
+
+---
+
+## Emergency Signs
+
+Seek immediate medical attention if there is:
+
+- Severe difficulty breathing
+- Heavy coughing of blood
+- Loss of consciousness
+- Severe chest pain
+
+---
+
+## Frequently Asked Questions
+
+### Is TB curable?
+
+Yes. TB is curable with proper treatment.
+
+### Can TB spread to family members?
+
+Yes. Active pulmonary TB can spread through the air.
+
+---
+
+## Disclaimer
+
+This information is for educational purposes only and does not replace professional medical advice.
+
+---
+
+## Metadata
+
+Category: Infectious Disease
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- National TB Elimination Programme (NTEP), India
+- Ministry of Health & Family Welfare, Government of India
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

@@ -1,0 +1,104 @@
+# Topic: Sanitation
+
+ID: PRE006
+
+Category: Prevention
+
+---
+
+## Overview
+
+Good sanitation helps prevent the spread of diseases by ensuring safe disposal of human waste, proper garbage management, and clean surroundings.
+
+Poor sanitation increases the risk of diarrhea, cholera, typhoid, intestinal worm infections, and other illnesses.
+
+---
+
+## Good Sanitation Practices
+
+Always:
+
+- Use clean toilets.
+- Wash hands after using the toilet.
+- Dispose of waste properly.
+- Keep drains clean.
+- Prevent stagnant water.
+- Maintain clean surroundings.
+
+---
+
+## Safe Waste Disposal
+
+- Separate household waste when possible.
+- Dispose of garbage in covered bins.
+- Avoid throwing waste into rivers or ponds.
+- Follow local waste collection guidelines.
+
+---
+
+## Safe Toilet Practices
+
+- Always use a toilet if available.
+- Keep toilets clean.
+- Ensure children also use toilets safely.
+- Clean toilets regularly using disinfectants.
+
+---
+
+## Community Hygiene
+
+Communities should:
+
+- Participate in cleanliness drives.
+- Report blocked drains.
+- Prevent open dumping of waste.
+- Promote hygiene education.
+
+---
+
+## Diseases Prevented
+
+Good sanitation helps prevent:
+
+- Cholera
+- Typhoid
+- Diarrhea
+- Hepatitis A
+- Worm infections
+
+---
+
+## Frequently Asked Questions
+
+### Why is sanitation important?
+
+It prevents disease transmission and improves community health.
+
+### Is handwashing part of sanitation?
+
+Yes. Hand hygiene and sanitation work together to reduce infections.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only.
+
+---
+
+## Metadata
+
+Category: Prevention
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- UNICEF
+- Swachh Bharat Mission
+- Ministry of Health & Family Welfare, Government of India
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

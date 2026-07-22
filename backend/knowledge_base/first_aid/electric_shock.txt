@@ -1,0 +1,107 @@
+# Topic: Electric Shock
+
+ID: FA009
+
+Category: First Aid
+
+---
+
+## Overview
+
+An electric shock occurs when electricity passes through the body. Injuries can range from mild burns to life-threatening heart or breathing problems.
+
+Always ensure your own safety before helping someone who has received an electric shock.
+
+---
+
+## Symptoms
+
+A person may have:
+
+- Burns
+- Pain
+- Muscle spasms
+- Numbness
+- Difficulty breathing
+- Irregular heartbeat
+- Loss of consciousness
+- Cardiac arrest
+
+---
+
+## First Aid
+
+If someone receives an electric shock:
+
+1. Turn off the electrical power source if it is safe.
+2. Do not touch the person until the electricity is disconnected.
+3. Use a dry wooden or plastic object to move the electrical source away if necessary and safe.
+4. Call emergency medical services.
+5. Check if the person is breathing.
+6. If trained, begin CPR if the person is not breathing and emergency services have been called.
+7. Cover burns with a clean, dry dressing.
+
+---
+
+## Do NOT
+
+Do NOT:
+
+- Touch the person while electricity is still flowing.
+- Use metal objects.
+- Pour water on electrical equipment.
+- Ignore even a minor electric shock.
+
+---
+
+## When to Visit a Doctor
+
+Medical evaluation is recommended after any significant electric shock, especially if there are burns, pain, numbness, or muscle weakness.
+
+---
+
+## Emergency Signs
+
+Call emergency medical services immediately if:
+
+- The person is unconscious.
+- Breathing has stopped.
+- Chest pain occurs.
+- There are severe burns.
+- Cardiac arrest is suspected.
+
+---
+
+## Frequently Asked Questions
+
+### Can a small electric shock still be dangerous?
+
+Yes. Even mild shocks can affect the heart or cause internal injuries.
+
+### Should I touch the person immediately?
+
+No. Ensure the power source is disconnected before touching the person.
+
+---
+
+## Disclaimer
+
+This information is intended for first-aid education only and should not replace emergency medical care.
+
+---
+
+## Metadata
+
+Category: First Aid
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- Indian Red Cross Society
+- St John Ambulance
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

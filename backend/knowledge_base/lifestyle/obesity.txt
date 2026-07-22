@@ -1,0 +1,117 @@
+# Topic: Obesity
+
+ID: LIFE002
+
+Category: Lifestyle
+
+---
+
+## Overview
+
+Obesity is a condition in which excess body fat increases the risk of health problems. It develops when a person regularly consumes more calories than the body uses.
+
+Obesity can affect people of all ages and is associated with several long-term diseases.
+
+---
+
+## Risk Factors
+
+Common causes include:
+
+- Unhealthy diet
+- Physical inactivity
+- Lack of sleep
+- Family history
+- Certain medical conditions
+- Some medicines
+
+---
+
+## Health Risks
+
+Obesity increases the risk of:
+
+- Type 2 diabetes
+- High blood pressure
+- Heart disease
+- Stroke
+- Sleep apnea
+- Joint problems
+- Certain cancers
+
+---
+
+## Healthy Weight Management
+
+To maintain a healthy weight:
+
+- Eat a balanced diet.
+- Reduce sugary drinks.
+- Limit processed foods.
+- Exercise regularly.
+- Sleep adequately.
+- Drink enough water.
+
+---
+
+## Healthy Eating Tips
+
+Choose:
+
+- Fruits
+- Vegetables
+- Whole grains
+- Lean proteins
+- Healthy fats
+
+Limit:
+
+- Sugary drinks
+- Fried foods
+- Packaged snacks
+- Excess sweets
+
+---
+
+## When to Consult a Doctor
+
+Seek medical advice if:
+
+- Weight continues to increase despite lifestyle changes.
+- Obesity is affecting daily activities.
+- You have diabetes, high blood pressure, or heart disease.
+
+---
+
+## Frequently Asked Questions
+
+### Is obesity only caused by eating too much?
+
+No. Genetics, hormones, medications, and lifestyle all contribute.
+
+### Can regular exercise help?
+
+Yes. Regular exercise combined with healthy eating supports weight management.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only.
+
+---
+
+## Metadata
+
+Category: Lifestyle
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- National Institute of Nutrition (India)
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

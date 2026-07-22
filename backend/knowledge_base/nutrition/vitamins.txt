@@ -1,0 +1,252 @@
+# Topic: Vitamins and Minerals
+
+ID: NUT004
+
+Category: Nutrition
+
+---
+
+## Overview
+
+Vitamins and minerals are essential nutrients required in small amounts for normal growth, immunity, bone health, energy production, and proper functioning of the body.
+
+Eating a varied and balanced diet usually provides all the nutrients most healthy people need.
+
+---
+
+## Important Vitamins
+
+### Vitamin A
+
+Functions:
+
+- Supports vision
+- Strengthens immunity
+- Maintains healthy skin
+
+Sources:
+
+- Carrots
+- Sweet potato
+- Mango
+- Spinach
+- Milk
+- Eggs
+
+---
+
+### Vitamin B Complex
+
+Functions:
+
+- Energy production
+- Healthy nerves
+- Red blood cell formation
+
+Sources:
+
+- Whole grains
+- Milk
+- Eggs
+- Pulses
+- Meat
+
+---
+
+### Vitamin C
+
+Functions:
+
+- Improves immunity
+- Helps wound healing
+- Increases iron absorption
+
+Sources:
+
+- Orange
+- Lemon
+- Guava
+- Amla
+- Tomatoes
+
+---
+
+### Vitamin D
+
+Functions:
+
+- Strong bones
+- Calcium absorption
+
+Sources:
+
+- Sunlight
+- Eggs
+- Fish
+- Fortified milk
+
+---
+
+### Vitamin E
+
+Functions:
+
+- Protects body cells
+- Supports immunity
+
+Sources:
+
+- Almonds
+- Sunflower seeds
+- Vegetable oils
+
+---
+
+### Vitamin K
+
+Functions:
+
+- Blood clotting
+- Bone health
+
+Sources:
+
+- Green leafy vegetables
+- Broccoli
+- Cabbage
+
+---
+
+## Important Minerals
+
+### Calcium
+
+Functions:
+
+- Strong bones and teeth
+
+Sources:
+
+- Milk
+- Yogurt
+- Cheese
+- Ragi
+- Sesame seeds
+
+---
+
+### Iron
+
+Functions:
+
+- Formation of hemoglobin
+
+Sources:
+
+- Green leafy vegetables
+- Lentils
+- Beans
+- Eggs
+- Meat
+
+---
+
+### Zinc
+
+Functions:
+
+- Immunity
+- Growth
+- Wound healing
+
+Sources:
+
+- Nuts
+- Seeds
+- Pulses
+- Meat
+
+---
+
+### Iodine
+
+Functions:
+
+- Healthy thyroid gland
+
+Sources:
+
+- Iodized salt
+- Seafood
+
+---
+
+## Signs of Deficiency
+
+Possible symptoms include:
+
+- Fatigue
+- Weakness
+- Poor immunity
+- Bone pain
+- Vision problems
+- Hair loss
+- Slow wound healing
+
+---
+
+## Prevention
+
+Maintain good nutrition by:
+
+- Eating colorful fruits and vegetables.
+- Including dairy products.
+- Eating pulses regularly.
+- Drinking enough water.
+- Spending time in sunlight safely.
+
+---
+
+## When to Visit a Doctor
+
+Seek medical advice if:
+
+- Fatigue persists.
+- Bone pain develops.
+- Frequent infections occur.
+- Poor growth is noticed in children.
+
+---
+
+## Frequently Asked Questions
+
+### Should everyone take vitamin supplements?
+
+No. Most healthy people can obtain enough vitamins from a balanced diet. Supplements should only be taken on medical advice.
+
+### Can too many vitamins be harmful?
+
+Yes. Excessive intake of certain vitamins or minerals may cause health problems.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only.
+
+---
+
+## Metadata
+
+Category: Nutrition
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- National Institute of Nutrition (NIN), India
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

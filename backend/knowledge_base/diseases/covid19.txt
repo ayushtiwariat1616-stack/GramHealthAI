@@ -1,0 +1,153 @@
+# Topic: COVID-19
+
+ID: DIS006
+
+Category: Infectious Disease
+
+---
+
+## Overview
+
+COVID-19 is a viral respiratory disease caused by the SARS-CoV-2 virus. It spreads mainly through respiratory droplets and close contact with infected individuals. Most people recover with supportive care, but older adults and people with underlying health conditions may develop severe illness.
+
+---
+
+## Symptoms
+
+Common symptoms include:
+
+- Fever
+- Cough
+- Sore throat
+- Runny nose
+- Fatigue
+- Headache
+- Body aches
+- Loss of taste or smell
+- Difficulty breathing in severe cases
+
+Symptoms usually appear 2 to 14 days after exposure.
+
+---
+
+## Causes
+
+COVID-19 is caused by the SARS-CoV-2 virus.
+
+The infection spreads through:
+
+- Respiratory droplets.
+- Close contact with infected individuals.
+- Poorly ventilated indoor spaces.
+
+---
+
+## Risk Factors
+
+Higher risk of severe illness includes:
+
+- Older adults.
+- People with diabetes.
+- Heart disease.
+- Chronic lung disease.
+- Kidney disease.
+- Weak immune systems.
+
+---
+
+## Prevention
+
+Reduce the risk by:
+
+- Washing hands regularly.
+- Covering coughs and sneezes.
+- Staying home when sick.
+- Improving indoor ventilation.
+- Following current public health recommendations.
+- Keeping vaccinations up to date if advised.
+
+---
+
+## Diagnosis
+
+Doctors may recommend:
+
+- RT-PCR test
+- Rapid antigen test
+- Physical examination
+- Chest imaging when required
+
+---
+
+## Treatment
+
+Treatment depends on severity.
+
+It may include:
+
+- Rest.
+- Drinking plenty of fluids.
+- Medicines prescribed by a healthcare professional.
+- Oxygen therapy or hospital care for severe illness.
+
+Do not take medicines without medical advice.
+
+---
+
+## When to Visit a Doctor
+
+Consult a healthcare professional if:
+
+- Fever persists.
+- Symptoms worsen.
+- Difficulty breathing develops.
+- Oxygen levels decrease.
+- Severe weakness occurs.
+
+---
+
+## Emergency Signs
+
+Seek emergency medical attention immediately if there is:
+
+- Severe difficulty breathing
+- Chest pain
+- Confusion
+- Blue lips or face
+- Loss of consciousness
+
+---
+
+## Frequently Asked Questions
+
+### Can COVID-19 be prevented?
+
+Yes. Good hygiene, ventilation, vaccination (when recommended), and avoiding exposure to infected individuals help reduce risk.
+
+### Does everyone need hospitalization?
+
+No. Many people recover at home, while severe cases require hospital treatment.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only and does not replace professional medical advice.
+
+---
+
+## Metadata
+
+Category: Infectious Disease
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- Ministry of Health & Family Welfare, Government of India
+- Indian Council of Medical Research (ICMR)
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

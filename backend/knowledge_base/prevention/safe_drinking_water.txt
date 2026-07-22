@@ -1,0 +1,109 @@
+# Topic: Safe Drinking Water
+
+ID: PRE002
+
+Category: Prevention
+
+---
+
+## Overview
+
+Safe drinking water is essential for good health. Contaminated water can spread diseases such as cholera, typhoid, hepatitis A, diarrhea, and other infections.
+
+Using clean and safe water greatly reduces the risk of water-borne diseases.
+
+---
+
+## Sources of Safe Water
+
+Safe drinking water may come from:
+
+- Treated municipal water supply.
+- Properly maintained borewells.
+- Protected wells.
+- Purified or filtered water.
+- Boiled water.
+
+---
+
+## How to Make Water Safer
+
+You can improve water safety by:
+
+- Boiling water for at least one minute.
+- Using certified water filters.
+- Chlorinating water when recommended.
+- Storing water in clean, covered containers.
+
+---
+
+## Safe Storage
+
+Always:
+
+- Keep drinking water covered.
+- Use clean containers.
+- Avoid touching water with dirty hands.
+- Clean storage containers regularly.
+
+---
+
+## Signs Water May Be Unsafe
+
+Water may be unsafe if it has:
+
+- Bad smell.
+- Unusual color.
+- Cloudiness.
+- Visible dirt.
+- Poor taste.
+
+Even clear water may contain harmful germs.
+
+---
+
+## Diseases Prevented
+
+Using safe drinking water helps prevent:
+
+- Cholera
+- Typhoid
+- Diarrhea
+- Hepatitis A
+- Dysentery
+
+---
+
+## Frequently Asked Questions
+
+### Is boiling water effective?
+
+Yes. Boiling kills most disease-causing germs.
+
+### Can clear water still be unsafe?
+
+Yes. Harmful bacteria and viruses may not be visible.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only.
+
+---
+
+## Metadata
+
+Category: Prevention
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- UNICEF
+- Ministry of Jal Shakti, Government of India
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

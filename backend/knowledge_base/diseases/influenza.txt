@@ -1,0 +1,155 @@
+# Topic: Influenza (Seasonal Flu)
+
+ID: DIS007
+
+Category: Infectious Disease
+
+---
+
+## Overview
+
+Influenza, commonly called the flu, is a contagious viral infection that affects the nose, throat, and lungs. It is caused by influenza viruses and spreads easily from person to person. Most people recover within a week, but some individuals, especially older adults, young children, pregnant women, and people with chronic illnesses, may develop serious complications.
+
+---
+
+## Symptoms
+
+Common symptoms include:
+
+- Sudden fever
+- Chills
+- Cough
+- Sore throat
+- Runny or blocked nose
+- Headache
+- Muscle aches
+- Fatigue
+- Weakness
+
+Some people may also experience vomiting or diarrhea, especially children.
+
+---
+
+## Causes
+
+Influenza is caused by influenza viruses, mainly:
+
+- Influenza A
+- Influenza B
+
+The virus spreads through:
+
+- Respiratory droplets from coughing or sneezing.
+- Close contact with infected individuals.
+- Touching contaminated surfaces and then touching the eyes, nose, or mouth.
+
+---
+
+## Risk Factors
+
+Higher risk includes:
+
+- Children under 5 years.
+- Adults over 65 years.
+- Pregnant women.
+- People with asthma.
+- Diabetes.
+- Heart disease.
+- Weak immune systems.
+
+---
+
+## Prevention
+
+Reduce the risk by:
+
+- Washing hands regularly.
+- Covering your mouth while coughing or sneezing.
+- Staying home when sick.
+- Keeping rooms well ventilated.
+- Avoiding close contact with sick people.
+- Getting the seasonal influenza vaccine if recommended.
+
+---
+
+## Diagnosis
+
+Doctors may recommend:
+
+- Physical examination.
+- Rapid influenza diagnostic test.
+- RT-PCR test when necessary.
+
+---
+
+## Treatment
+
+Treatment usually includes:
+
+- Plenty of rest.
+- Drinking enough fluids.
+- Medicines prescribed by a healthcare professional.
+- Antiviral medicines for some patients when started early.
+
+Do not take antibiotics unless prescribed, as antibiotics do not treat viral infections.
+
+---
+
+## When to Visit a Doctor
+
+Consult a healthcare professional if:
+
+- Fever lasts more than three days.
+- Symptoms become worse.
+- Difficulty breathing develops.
+- Chest pain occurs.
+- A child or older adult becomes unusually weak.
+
+---
+
+## Emergency Signs
+
+Seek immediate medical care if there is:
+
+- Difficulty breathing
+- Chest pain
+- Blue lips or face
+- Confusion
+- Seizures
+- Loss of consciousness
+
+---
+
+## Frequently Asked Questions
+
+### Is influenza the same as the common cold?
+
+No. Influenza usually causes more severe symptoms than the common cold.
+
+### Can influenza be prevented?
+
+Yes. Good hygiene and seasonal vaccination help reduce the risk.
+
+---
+
+## Disclaimer
+
+This information is for educational purposes only and does not replace professional medical advice.
+
+---
+
+## Metadata
+
+Category: Infectious Disease
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- Ministry of Health & Family Welfare, Government of India
+- Centers for Disease Control and Prevention (CDC)
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

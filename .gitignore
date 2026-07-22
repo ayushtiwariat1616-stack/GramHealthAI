@@ -1,0 +1,44 @@
+# ==========================
+# Python
+# ==========================
+backend/.venv/
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+
+# Environment
+backend/.env
+
+# Chroma
+backend/chroma_db/
+
+# Uploads
+backend/uploads/
+
+# ==========================
+# Node
+# ==========================
+node_modules/
+frontend/node_modules/
+
+# Root node modules
+/node_modules/
+
+# Vite build
+frontend/dist/
+
+# ==========================
+# Git
+# ==========================
+.git/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

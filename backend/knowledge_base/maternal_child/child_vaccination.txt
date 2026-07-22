@@ -1,0 +1,112 @@
+# Topic: Child Vaccination
+
+ID: MCH004
+
+Category: Maternal & Child Health
+
+---
+
+## Overview
+
+Vaccination protects children from serious infectious diseases by helping the immune system recognize and fight harmful germs.
+
+Children should receive vaccines according to the National Immunization Schedule recommended by the Government of India.
+
+---
+
+## Why Vaccination Is Important
+
+Vaccination helps:
+
+- Prevent life-threatening diseases.
+- Reduce hospital admissions.
+- Protect children during early life.
+- Prevent outbreaks in the community.
+
+---
+
+## Diseases Prevented
+
+Childhood vaccines help prevent diseases such as:
+
+- Tuberculosis
+- Polio
+- Hepatitis B
+- Measles
+- Diphtheria
+- Pertussis (Whooping Cough)
+- Tetanus
+- Rotavirus infection
+- Pneumococcal disease
+
+---
+
+## Vaccination Schedule
+
+Parents should:
+
+- Follow the national immunization schedule.
+- Attend every vaccination appointment.
+- Keep the child's vaccination card safely.
+
+---
+
+## Common Side Effects
+
+Some children may experience:
+
+- Mild fever
+- Pain at the injection site
+- Swelling
+- Irritability
+- Sleepiness
+
+These effects usually improve within a few days.
+
+---
+
+## When to Seek Medical Care
+
+Seek immediate medical attention if the child develops:
+
+- Difficulty breathing
+- Severe allergic reaction
+- Persistent high fever
+- Convulsions
+- Loss of consciousness
+
+---
+
+## Frequently Asked Questions
+
+### Should a child miss vaccinations because of a mild cold?
+
+Usually no. A mild illness is not always a reason to delay vaccination. Follow your healthcare provider's advice.
+
+### Is it important to complete every vaccine dose?
+
+Yes. Completing the recommended schedule provides the best protection.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only.
+
+---
+
+## Metadata
+
+Category: Maternal & Child Health
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- Universal Immunization Programme (India)
+- Ministry of Health & Family Welfare
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

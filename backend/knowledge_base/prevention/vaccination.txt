@@ -1,0 +1,124 @@
+# Topic: Vaccination
+
+ID: PRE005
+
+Category: Prevention
+
+---
+
+## Overview
+
+Vaccination is one of the most effective ways to prevent infectious diseases. Vaccines train the immune system to recognize and fight harmful germs without causing the disease itself.
+
+Vaccination protects both the individual and the community by reducing the spread of infectious diseases.
+
+---
+
+## Benefits of Vaccination
+
+Vaccination helps:
+
+- Prevent serious diseases.
+- Reduce hospitalizations.
+- Protect infants and older adults.
+- Prevent disease outbreaks.
+- Save lives.
+
+---
+
+## Diseases Prevented
+
+Vaccines help protect against diseases such as:
+
+- Tuberculosis (BCG)
+- Polio
+- Measles
+- Hepatitis B
+- Diphtheria
+- Pertussis (Whooping Cough)
+- Tetanus
+- COVID-19
+- Influenza (for eligible groups)
+
+---
+
+## Childhood Vaccination
+
+Children should receive vaccines according to the National Immunization Schedule recommended by the Government of India.
+
+Parents should keep their child's vaccination record safe.
+
+---
+
+## Adult Vaccination
+
+Some adults may also require vaccines depending on:
+
+- Age
+- Pregnancy
+- Occupation
+- Medical conditions
+- Travel requirements
+
+Consult a healthcare professional for advice.
+
+---
+
+## Common Side Effects
+
+Mild side effects may include:
+
+- Pain at the injection site
+- Mild fever
+- Tiredness
+- Swelling or redness
+
+These usually improve within a few days.
+
+---
+
+## When to Seek Medical Care
+
+Seek immediate medical attention if a person develops:
+
+- Difficulty breathing
+- Severe allergic reaction
+- High fever that does not improve
+- Persistent seizures
+- Loss of consciousness
+
+---
+
+## Frequently Asked Questions
+
+### Are vaccines safe?
+
+Yes. Vaccines are carefully tested for safety and effectiveness before approval.
+
+### Can vaccines cause the disease they prevent?
+
+Most vaccines cannot cause the disease they are designed to prevent.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only.
+
+---
+
+## Metadata
+
+Category: Prevention
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- Ministry of Health & Family Welfare, Government of India
+- Universal Immunization Programme (UIP)
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

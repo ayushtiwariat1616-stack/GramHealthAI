@@ -1,0 +1,139 @@
+# Topic: Fever
+
+ID: GEN001
+
+Category: General Symptoms
+
+---
+
+## Overview
+
+Fever is a temporary increase in body temperature, usually caused by the body's response to an infection or illness. It is a symptom rather than a disease itself.
+
+A normal body temperature is around **37°C (98.6°F)**, though it may vary slightly from person to person.
+
+---
+
+## Common Causes
+
+Fever may occur due to:
+
+- Viral infections
+- Bacterial infections
+- Influenza (Flu)
+- COVID-19
+- Malaria
+- Dengue
+- Typhoid
+- Urinary tract infections
+- Vaccination (temporary mild fever)
+
+---
+
+## Common Symptoms
+
+A person with fever may have:
+
+- Increased body temperature
+- Chills
+- Sweating
+- Headache
+- Muscle aches
+- Weakness
+- Loss of appetite
+- Dehydration
+
+---
+
+## Home Care
+
+For mild fever:
+
+- Drink plenty of clean water.
+- Get enough rest.
+- Wear light clothing.
+- Eat light, nutritious meals.
+- Monitor body temperature regularly.
+- Take medicines only as advised by a healthcare professional.
+
+---
+
+## Preventing Dehydration
+
+While having a fever:
+
+- Drink water regularly.
+- Use Oral Rehydration Solution (ORS) if advised.
+- Drink soups or other fluids if tolerated.
+
+---
+
+## Do NOT
+
+Do NOT:
+
+- Take antibiotics without a doctor's advice.
+- Cover yourself with heavy blankets if the body is already hot.
+- Ignore a persistent high fever.
+- Give medicines in incorrect doses.
+
+---
+
+## When to Visit a Doctor
+
+Seek medical care if:
+
+- Fever lasts more than 2–3 days.
+- Temperature is very high.
+- Fever returns repeatedly.
+- Severe headache develops.
+- Rash appears.
+- Persistent vomiting occurs.
+- There is difficulty breathing.
+
+---
+
+## Emergency Signs
+
+Call emergency medical services immediately if fever is accompanied by:
+
+- Confusion
+- Seizures
+- Difficulty breathing
+- Unconsciousness
+- Severe neck stiffness
+
+---
+
+## Frequently Asked Questions
+
+### Is every fever dangerous?
+
+No. Many fevers are caused by common infections and improve with proper care, but persistent or very high fever requires medical evaluation.
+
+### Should I stay hydrated?
+
+Yes. Drinking enough fluids is very important during fever.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only and does not replace professional medical advice.
+
+---
+
+## Metadata
+
+Category: General Symptoms
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- Ministry of Health & Family Welfare, Government of India
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

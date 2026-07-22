@@ -1,0 +1,127 @@
+# Topic: Diarrhea
+
+ID: GEN004
+
+Category: General Symptoms
+
+---
+
+## Overview
+
+Diarrhea is the passage of loose or watery stools several times a day. It is commonly caused by infections, contaminated food or water, or certain medicines.
+
+Most cases improve within a few days, but dehydration can become serious.
+
+---
+
+## Common Causes
+
+- Viral infections
+- Bacterial infections
+- Contaminated food
+- Unsafe drinking water
+- Food poisoning
+- Certain medicines
+
+---
+
+## Symptoms
+
+- Loose stools
+- Stomach cramps
+- Nausea
+- Vomiting
+- Fever
+- Weakness
+- Dehydration
+
+---
+
+## Home Care
+
+- Drink plenty of clean water.
+- Use Oral Rehydration Solution (ORS).
+- Continue eating light meals.
+- Wash hands regularly.
+- Rest adequately.
+
+---
+
+## Foods to Eat
+
+Choose:
+
+- Rice
+- Bananas
+- Toast
+- Khichdi
+- Soup
+- Curd (if tolerated)
+
+---
+
+## Avoid
+
+Avoid:
+
+- Oily foods
+- Spicy foods
+- Alcohol
+- Sugary drinks
+- Unsafe water
+
+---
+
+## When to Visit a Doctor
+
+Seek medical care if:
+
+- Diarrhea lasts more than two days in adults.
+- Blood appears in stool.
+- High fever develops.
+- Severe dehydration occurs.
+
+---
+
+## Emergency Signs
+
+Call emergency medical services immediately if:
+
+- The person becomes unconscious.
+- Severe dehydration develops.
+- Continuous vomiting prevents drinking fluids.
+
+---
+
+## Frequently Asked Questions
+
+### Why is ORS important?
+
+ORS replaces water and important salts lost during diarrhea.
+
+### Should I stop eating?
+
+No. Continue light meals unless advised otherwise by a healthcare professional.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only.
+
+---
+
+## Metadata
+
+Category: General Symptoms
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- UNICEF
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

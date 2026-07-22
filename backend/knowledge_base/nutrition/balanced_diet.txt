@@ -1,0 +1,114 @@
+# Topic: Balanced Diet
+
+ID: NUT001
+
+Category: Nutrition
+
+---
+
+## Overview
+
+A balanced diet provides the body with all the essential nutrients needed for growth, energy, repair, and overall health. It includes carbohydrates, proteins, healthy fats, vitamins, minerals, fiber, and adequate water in the right proportions.
+
+Eating a balanced diet helps maintain a healthy weight, strengthens immunity, improves energy levels, and reduces the risk of many diseases.
+
+---
+
+## Components of a Balanced Diet
+
+A healthy meal should include:
+
+- Whole grains (rice, wheat, millets)
+- Fruits
+- Vegetables
+- Pulses and legumes
+- Milk and dairy products
+- Eggs, fish, or lean meat (if consumed)
+- Nuts and seeds
+- Healthy oils in small amounts
+- Plenty of clean drinking water
+
+---
+
+## Benefits
+
+A balanced diet helps:
+
+- Maintain healthy body weight
+- Improve immunity
+- Build strong bones and muscles
+- Support brain function
+- Improve digestion
+- Prevent nutrient deficiencies
+- Lower the risk of diabetes, heart disease, and high blood pressure
+
+---
+
+## Healthy Eating Tips
+
+- Eat a variety of foods every day.
+- Fill half your plate with vegetables and fruits.
+- Choose whole grains instead of refined grains.
+- Eat enough protein.
+- Drink sufficient water.
+- Reduce sugar and salt intake.
+- Avoid excessive fried and processed foods.
+
+---
+
+## Foods to Limit
+
+Try to reduce:
+
+- Sugary drinks
+- Packaged snacks
+- Fast food
+- Deep-fried foods
+- Foods high in salt
+- Foods containing trans fats
+
+---
+
+## When to Consult a Healthcare Professional
+
+Consult a healthcare professional or dietitian if:
+
+- You experience unexplained weight loss.
+- You have persistent fatigue.
+- You have diabetes or kidney disease.
+- You need a special diet during pregnancy or illness.
+
+---
+
+## Frequently Asked Questions
+
+### What is the healthiest meal?
+
+A meal containing whole grains, vegetables, fruits, protein, and healthy fats.
+
+### Should I skip meals to lose weight?
+
+No. Skipping meals may lead to overeating later and nutrient deficiencies.
+
+---
+
+## Disclaimer
+
+This information is for educational purposes only and should not replace professional dietary advice.
+
+---
+
+## Metadata
+
+Category: Nutrition
+
+Primary Sources:
+- World Health Organization (WHO)
+- National Institute of Nutrition (NIN), India
+- Ministry of Health & Family Welfare, Government of India
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026

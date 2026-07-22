@@ -1,0 +1,117 @@
+# Topic: Cough
+
+ID: GEN003
+
+Category: General Symptoms
+
+---
+
+## Overview
+
+A cough is the body's natural reflex to clear the airways of mucus, dust, or irritants. Most coughs are caused by viral infections and improve within a few weeks.
+
+A persistent or severe cough may require medical evaluation.
+
+---
+
+## Common Causes
+
+Cough may occur due to:
+
+- Common cold
+- Influenza (Flu)
+- COVID-19
+- Asthma
+- Allergies
+- Pneumonia
+- Tuberculosis
+- Smoking
+- Air pollution
+
+---
+
+## Types of Cough
+
+- Dry cough (no mucus)
+- Wet cough (with mucus)
+- Persistent cough (lasting several weeks)
+
+---
+
+## Home Care
+
+For mild cough:
+
+- Drink warm fluids.
+- Stay hydrated.
+- Rest adequately.
+- Avoid smoking and second-hand smoke.
+- Follow medical advice before taking cough medicines.
+
+---
+
+## Do NOT
+
+Do NOT:
+
+- Smoke.
+- Self-medicate with antibiotics.
+- Ignore a cough lasting more than three weeks.
+
+---
+
+## When to Visit a Doctor
+
+Consult a healthcare professional if:
+
+- Cough lasts more than three weeks.
+- High fever develops.
+- Thick or bloody mucus is present.
+- Chest pain occurs.
+- Breathing becomes difficult.
+
+---
+
+## Emergency Signs
+
+Call emergency medical services immediately if:
+
+- Severe difficulty breathing develops.
+- Lips become blue.
+- The person coughs up a large amount of blood.
+- The person becomes unconscious.
+
+---
+
+## Frequently Asked Questions
+
+### Can a cough be caused by allergies?
+
+Yes. Allergies commonly cause a dry cough.
+
+### Should antibiotics be taken for every cough?
+
+No. Many coughs are caused by viruses and do not require antibiotics.
+
+---
+
+## Disclaimer
+
+This information is intended for educational purposes only.
+
+---
+
+## Metadata
+
+Category: General Symptoms
+
+Primary Sources:
+
+- World Health Organization (WHO)
+- Centers for Disease Control and Prevention (CDC)
+
+Language: English
+
+Version: 1.0
+
+Last Reviewed: July 2026
