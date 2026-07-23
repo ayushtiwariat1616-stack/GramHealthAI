@@ -43,11 +43,11 @@ class ChatService:
             )
 
         docs = retrieve_context(message)
-        print("=" * 50)
-        print("Retrieved Docs:", len(docs))
-        for doc in docs:
-            print(doc.page_content[:300])
-        print("=" * 50)
+        # print("=" * 50)
+        # print("Retrieved Docs:", len(docs))
+        # for doc in docs:
+        #     print(doc.page_content[:300])
+        # print("=" * 50)
         result= generate_response(
                 message,
                 docs,
