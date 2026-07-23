@@ -1,7 +1,18 @@
-from ollama import Client
+import os
 
-client = Client(host="http://localhost:11434")
+from groq import Groq
+from dotenv import load_dotenv
 
+load_dotenv()
+
+client = Groq(
+    api_key=os.getenv("GROQ_API_KEY")
+)
+
+MODEL = os.getenv(
+    "MODEL_NAME",
+    "llama-3.3-70b-versatile"
+)
 
 VALID_INTENTS = {
     "GREETING",
@@ -65,19 +76,24 @@ GENERAL:
 Everything else.
 
 Reply ONLY with ONE WORD.
+
+Message:
+{message}
 """
 
-    response = client.chat(
-        model="llama3.1:8b",
+    response = client.chat.completions.create(
+        model=MODEL,
+        temperature=0,
+        max_tokens=10,
         messages=[
             {
                 "role": "user",
-                "content": prompt + "\n\nMessage:\n" + message
+                "content": prompt,
             }
         ],
     )
 
-    result = response["message"]["content"].strip().upper()
+    result = response.choices[0].message.content.strip().upper()
 
     for intent in VALID_INTENTS:
         if intent in result:
