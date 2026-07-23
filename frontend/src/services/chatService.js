@@ -1,16 +1,10 @@
-import axios from "axios";
-
-const API_URL =
-  import.meta.env.VITE_API_URL || "https://gramhealthai-production.up.railway.app";
+import api from "./api";
 
 export async function sendMessage(message, language) {
-  const { data } = await axios.post(
-    `${API_URL}/chat`,
-    {
-      message,
-      language,
-    }
-  );
-
+  const { data } = await api.post("/chat", {
+    message,
+    language,
+  });
+  console.log("Response from backend:", data);
   return data;
 }
