@@ -19,28 +19,40 @@ class ChatService:
         intent = classify_intent(message)
 
         if intent == "GREETING":
-            return (
-                "👋 Hello! I am GramHealthAI.\n\n"
-                "How can I help you with your health today?"
-            )
+            return {
+                "answer": (
+                    "👋 Hello! I am GramHealthAI.\n\n"
+                    "How can I help you with your health today?"
+                ),
+                "sources": [],
+            }
 
         if intent == "IDENTITY":
-            return (
-                "🩺 I am GramHealthAI.\n\n"
-                "I provide reliable health awareness information using a verified knowledge base."
-            )
+            return {
+                "answer": (
+                    "🩺 I am GramHealthAI.\n\n"
+                    "I provide reliable health awareness information using a verified knowledge base."
+                ),
+                "sources": [],
+            }
 
         if intent == "GENERAL":
-            return (
-                "I specialize in health awareness.\n\n"
-                "Please ask a health-related question."
-            )
+            return {
+                "answer": (
+                    "I specialize in health awareness.\n\n"
+                    "Please ask a health-related question."
+                ),
+                "sources": [],
+            }
 
         if intent == "EMERGENCY":
-            return (
-                "⚠️ This may be a medical emergency.\n\n"
-                "Please contact your nearest hospital or emergency services immediately."
-            )
+            return {
+                "answer": (
+                    "⚠️ This may be a medical emergency.\n\n"
+                    "Please contact your nearest hospital or emergency services immediately."
+                ),
+                "sources": [],
+            }
 
         docs = retrieve_context(message)
         # print("=" * 50)

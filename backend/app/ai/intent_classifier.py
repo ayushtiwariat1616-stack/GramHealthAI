@@ -28,13 +28,13 @@ def classify_intent(message: str) -> str:
     prompt = f"""
 You are an intent classification system.
 
-Classify the message into EXACTLY ONE category.
+Classify the message into EXACTLY ONE OF THE BELOW 5 Category.
 
-GREETING
-IDENTITY
-HEALTH
-GENERAL
-EMERGENCY
+i. GREETING
+ii. IDENTITY
+iii. HEALTH
+iv. GENERAL
+v. EMERGENCY
 
 Definitions:
 

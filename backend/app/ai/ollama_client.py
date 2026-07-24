@@ -112,6 +112,10 @@ I don't know based on the available health information.
 
 10. Keep the answer concise.
 
+11. If the context is in a different language, translate it to the requested language.
+
+12. Most Importantly, if user greets you, greet them back in a friendly manner by telling them who you are and what you can do.
+
 Answer:
 """
 
