@@ -1,18 +1,13 @@
 import os
-
+import json
 from groq import Groq
 from dotenv import load_dotenv
 
 load_dotenv()
 
-client = Groq(
-    api_key=os.getenv("GROQ_API_KEY")
-)
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
-MODEL = os.getenv(
-    "MODEL_NAME",
-    "llama-3.3-70b-versatile"
-)
+MODEL = os.getenv("INTENT_MODEL", "openai/gpt-oss-20b")
 
 VALID_INTENTS = {
     "GREETING",
@@ -26,77 +21,83 @@ VALID_INTENTS = {
 def classify_intent(message: str) -> str:
 
     prompt = f"""
-You are an intent classification system.
+Classify the following user message into exactly one category.
 
-Classify the message into EXACTLY ONE OF THE BELOW 5 Category.
-
-i. GREETING
-ii. IDENTITY
-iii. HEALTH
-iv. GENERAL
-v. EMERGENCY
-
-Definitions:
+Categories:
 
 GREETING:
-Hello, Hi, Good Morning, Hey
+Simple greetings such as hello, hi, good morning.
 
 IDENTITY:
-Who are you?
-What is your name?
-What can you do?
+Questions asking who you are, what you are, or what GramHealthAI does.
 
 HEALTH:
-Diseases
-Symptoms
-Medicine
-Nutrition
-Food
-Exercise
-Mental Health
-Pregnancy
-Vaccination
-Hospitals
-Doctors
-First Aid
-Healthy Lifestyle
+ANY question related to:
+- diseases
+- symptoms
+- prevention
+- treatment awareness
+- medicines
+- nutrition
+- fitness
+- pregnancy
+- fever
+- dengue
+- malaria
+- diabetes
+- blood pressure
+- mental health
+- general healthcare
 
 EMERGENCY:
-Chest pain
-Difficulty breathing
-Heavy bleeding
-Poisoning
-Stroke
-Heart attack
-Suicide
-Unconscious
-Snake bite
+Messages describing severe or potentially life-threatening health situations
+such as unconsciousness, severe bleeding, chest pain, difficulty breathing,
+poisoning, seizures, or suicidal thoughts.
 
 GENERAL:
-Everything else.
+Anything completely unrelated to health.
 
-Reply ONLY with ONE WORD.
+Examples:
+
+"Hello" -> GREETING
+"Who are you?" -> IDENTITY
+"How to prevent dengue?" -> HEALTH
+"What are symptoms of malaria?" -> HEALTH
+"I have fever" -> HEALTH
+"What foods are good for diabetes?" -> HEALTH
+"I cannot breathe properly" -> EMERGENCY
+"Who is the Prime Minister of India?" -> GENERAL
 
 Message:
 {message}
+
+Return only JSON in this exact format:
+
+{{"intent": "HEALTH"}}
 """
 
     response = client.chat.completions.create(
         model=MODEL,
         temperature=0,
-        max_tokens=10,
+        reasoning_effort="low",
+        include_reasoning=False,
+        response_format={"type": "json_object"},
         messages=[
             {
                 "role": "user",
-                "content": prompt,
+                "content": prompt
             }
         ],
     )
 
-    result = response.choices[0].message.content.strip().upper()
+    try:
+        data = json.loads(response.choices[0].message.content)
+        intent = data.get("intent", "GENERAL").strip().upper()
 
-    for intent in VALID_INTENTS:
-        if intent in result:
+        if intent in VALID_INTENTS:
             return intent
+
+    except Exception as e:
+        print("Intent classification error:", e)
 
     return "GENERAL"
